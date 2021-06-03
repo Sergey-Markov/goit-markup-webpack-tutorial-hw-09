@@ -1,0 +1,23 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack"
+ },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergey-Markov/goit-markup-webpack-tutorial-hw-09.git"
+  },
+  "author": "SergQttR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sergey-Markov/goit-markup-webpack-tutorial-hw-09/issues"
+  },
+  "homepage": "https://github.com/Sergey-Markov/goit-markup-webpack-tutorial-hw-09#readme",
+  "devDependencies": {
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.0"
+  }
+}
